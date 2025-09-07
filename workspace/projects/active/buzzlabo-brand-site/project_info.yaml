@@ -1,0 +1,90 @@
+project:
+  name: "BUZZLABO ブランドサイト制作"
+  type: "ランディングページ"
+  status: "active"
+  created: "2025-01-27"
+  client: "BUZZLABO"
+  
+objectives:
+  primary: "サービス紹介・リード獲得・コンバージョン"
+  secondary:
+    - "ブランド認知向上"
+    - "無料トライアル獲得"
+    - "指名検索対策"
+
+target_audience:
+  - "個人運用者・フリーランスSNSマーケター"
+  - "スモールビジネス（飲食・小売・サロン・アパレル等）"
+  - "D2C／EC事業者のマーケ部小チーム"
+  - "SNS運用代行・広告代理店"
+
+technical_requirements:
+  format: "静的サイト（HTML/CSS）"
+  responsive: true
+  seo: "指名検索対策完璧実装"
+  performance: "一般的なサイトレベル"
+  browser_support: "モダンブラウザ対応"
+
+site_structure:
+  - "ヘッダーセクション"
+  - "ヒーローセクション"
+  - "問題提起セクション"
+  - "ターゲット紹介セクション"
+  - "機能紹介セクション"
+  - "料金プランセクション"
+  - "導入の流れセクション"
+  - "サポートセクション"
+  - "導入企業様の実績セクション"
+  - "FAQセクション"
+  - "最終CTAセクション"
+  - "フッターセクション"
+
+key_messages:
+  - "Instagram に 伸びる・当たる運用を"
+  - "投稿分析がカンタンに・伸びる投稿を自動提案・業界トレンドから逆算"
+  - "フリーランス・運用代行・スモールビジネスに特化"
+  - "A/Bテスト分析で伸びる投稿を即座に判定"
+  - "競合ベンチマークで最新トレンドを追っかけ"
+  - "リアルタイム分析・自動レポート出力"
+  - "14日間無料・カード登録不要"
+  - "24時間チャットサポート"
+
+cta_strategy:
+  primary: "14日間無料で分析を始める"
+  secondary: "デモをチェック"
+  tertiary: "無料で始める"
+
+seo_keywords:
+  primary:
+    - "Instagram分析"
+    - "SNS運用支援"
+    - "Instagram分析ツール"
+  secondary:
+    - "SNSマーケティング"
+    - "Instagram運用代行"
+    - "SNS分析レポート"
+  long_tail:
+    - "Instagramの投稿分析ツール"
+    - "SNS運用の効果測定"
+    - "Instagram運用支援サービス"
+
+files:
+  assets:
+    - "css/"
+    - "js/"
+    - "images/"
+    - "fonts/"
+  pages:
+    - "index.html"
+  config:
+    - "robots.txt"
+    - "sitemap.xml"
+    - ".htaccess"
+
+timeline:
+  phase1: "要件定義・設計（完了）"
+  phase2: "ワイヤーフレーム・デザイン"
+  phase3: "コンテンツ制作"
+  phase4: "コーディング・実装"
+  phase5: "テスト・最適化"
+  phase6: "公開・運用開始"

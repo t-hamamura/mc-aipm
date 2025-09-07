@@ -1,0 +1,153 @@
+brand:
+  name: BUZZLABO
+  created: '2025-09-06'
+  status: active
+  category: SaaS/MarTech
+  description: SNS運用支援（Instagram特化）・分析・レポーティングツール
+  last_updated: '2025-01-27 15:30:00'
+  
+  # 詳細なターゲット市場（プロジェクト調査から更新）
+  target_market:
+    - 個人運用者・フリーランスSNSマーケター
+    - スモールビジネス（飲食・小売・サロン・アパレル等）
+    - D2C／EC事業者のマーケ部小チーム
+    - SNS運用代行・広告代理店（複数アカウント管理層）
+  
+  # ペルソナ分析結果
+  personas:
+    freelancer:
+      name: "田中 美咲（フリーランスSNSマーケター）"
+      age: 28
+      challenges:
+        - 複数クライアントの分析に時間がかかりすぎる
+        - 表面的な数値だけでなく、なぜ伸びたのかの理由が知りたい
+        - 分かりやすいレポート作成が大変
+        - 業界のトレンドや競合の動向を把握したい
+      needs:
+        - 短時間で深い分析ができるツール
+        - 成功パターンを保存して他のクライアントでも活用したい
+        - クライアントに分かりやすく説明できる資料
+        - 業界トレンドの把握
+      budget_range: "月額3,000-5,000円程度"
+    
+    small_business:
+      name: "佐藤 健一（美容院経営者）"
+      age: 35
+      challenges:
+        - Instagramの分析画面が複雑で分からない
+        - どの投稿が効果的だったのか分からない
+        - 本業が忙しく、SNS運用に時間をかけられない
+        - 他の美容院がどんな投稿をしているか知りたい
+      needs:
+        - 複雑でない、分かりやすい分析
+        - 何をすればいいか明確に教えてほしい
+        - 短時間で効果的な投稿ができるようになりたい
+        - 同業他社との差を把握したい
+      budget_range: "月額5,000円以下"
+    
+    d2c_marketer:
+      name: "山田 恵（D2Cブランドマーケター）"
+      age: 32
+      challenges:
+        - Instagram運用の投資対効果を正確に測りたい
+        - 複数人での運用管理が複雑
+        - 同業他社との差別化ポイントを把握したい
+        - 経営陣への報告資料作成が大変
+      needs:
+        - 詳細なデータ分析とインサイト
+        - 複数人での共同作業機能
+        - 経営陣向けの分かりやすいレポート
+        - 業界全体のトレンド把握
+      budget_range: "月額10,000円程度"
+    
+    agency:
+      name: "鈴木 大輔（SNS運用代行業者）"
+      age: 30
+      challenges:
+        - 25社のアカウント管理を効率的に行いたい
+        - クライアントに高い成果を提供したい
+        - 他社との差別化を図りたい
+        - クライアント向けの詳細レポート作成
+      needs:
+        - 複数アカウントの一括管理
+        - 業界最高レベルの分析機能
+        - クライアント向けの高品質レポート
+        - 自社ブランドでのレポート提供
+      budget_range: "月額15,000円程度"
+  
+  # 競合優位性（詳細版）
+  competitive_advantages:
+    - "伸びた理由"の可視化と再現性：A/B分析、勝ちフォーマット保存
+    - 競合ベンチマーク：差分をカードで即把握
+    - 自動レポート出力：PDF／Slides／共有リンク（ホワイトレーベル可）
+    - 導入ハードル低：14日無料・カード不要・解約1クリック
+    - 使いやすいUI：主要指標を1画面集約、テンプレ操作で迷わない
+    - サポート厚：24時間チャット、1on1オンボーディング、業界別ガイド
+    - 価格設計が明快：3プラン＋必要に応じアドオン拡張
+    - セキュリティ安心：Instagram公式APIの読み取りのみ（パスワード保存なし）
+  
+  # 市場ポジション
+  market_position:
+    price_tier: "中額帯（¥3,980）"
+    target_gap: "スモールビジネス・フリーランス特化"
+    differentiation: "再現性特化の分析ツール"
+    competitive_landscape:
+      direct_competitors:
+        - "Moribus Navi（AI特化）"
+        - "HINOME（無料・UI優良）"
+        - "SINIS（完全無料）"
+        - "GRASIS（AI戦略提案）"
+      indirect_competitors:
+        - "SocialDog（複数SNS一元管理）"
+        - "Meltwater（大企業向け）"
+        - "MASAI（AI感情分析）"
+  
+  # キーメッセージ（プロジェクトから更新）
+  key_messages:
+    - "Instagram に 伸びる・当たる運用を"
+    - "投稿分析がカンタンに・伸びる投稿を自動提案・業界トレンドから逆算"
+    - "フリーランス・運用代行・スモールビジネスに特化"
+    - "A/Bテスト分析で伸びる投稿を即座に判定"
+    - "競合ベンチマークで最新トレンドを追っかけ"
+    - "リアルタイム分析・自動レポート出力"
+    - "14日間無料・カード登録不要"
+    - "24時間チャットサポート"
+assets:
+  logo:
+    source_file: "assets/logo/BUZZLABO_logo.ai"
+    formats:
+      svg:
+        letter_black: "assets/logo/SVG/logo_letter-b.svg"
+        letter_white: "assets/logo/SVG/logo_letter-w.svg"
+        mark_letter_black_h: "assets/logo/SVG/logo_mark_letter-b_h.svg"
+        mark_letter_black_v: "assets/logo/SVG/logo_mark_letter-b_v.svg"
+        mark_letter_white_h: "assets/logo/SVG/logo_mark_letter-w_h.svg"
+        mark_letter_white_v: "assets/logo/SVG/logo_mark_letter-w_v.svg"
+        mark_only: "assets/logo/SVG/logo_mark.svg"
+      png:
+        resolutions:
+          - "0.5x"
+          - "0.75x"
+          - "1x"
+          - "2x"
+          - "3x"
+          - "4x"
+        variants:
+          letter_black: "logo_letter-b"
+          letter_white: "logo_letter-w"
+          mark_letter_black_h: "logo_mark_letter-b_h"
+          mark_letter_black_v: "logo_mark_letter-b_v"
+          mark_letter_white_h: "logo_mark_letter-w_h"
+          mark_letter_white_v: "logo_mark_letter-w_v"
+          mark_only: "logo_mark"
+    usage_notes:
+      - "黒背景には白ロゴ（-w）を使用"
+      - "白背景には黒ロゴ（-b）を使用"
+      - "横組み（_h）と縦組み（_v）を用途に応じて選択"
+      - "最小サイズは24px（1x基準）"
+      - "ロゴ周辺に十分な余白を確保"
+contacts: []
+projects:
+  active:
+    - "BUZZLABO ブランドサイト制作"
+  completed: []
